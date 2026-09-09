@@ -158,3 +158,4 @@ Siga este guia em etapas para concluir a construção da engenhoca:
 ## 📸Imagens do Circuito
 
 ![Texto alternativo para acessibilidade](https://github.com/joa01972/Projeto_LDR_Arduino/blob/main/Captura%20de%20tela%202026-09-07%20194902.png?raw=true)
+![Texto alternativo para acessibilidade](https://github.com/joa01972/Projeto_LDR_Arduino/blob/main/Captura%20de%20tela%202026-09-08%20084645.png?raw=true)
